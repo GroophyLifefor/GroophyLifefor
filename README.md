@@ -14,8 +14,8 @@ in various Programming Languages.
 <img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
 <img style="padding: 1.5px" align="left" alt="C++" width="25px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
 <img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
-<img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
-<img style="padding: 1.5px" alt="Sass" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//sass.svg"/>
+<img style="padding: 1.5px" alt="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
+
 
 
 
