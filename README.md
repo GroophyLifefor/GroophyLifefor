@@ -32,6 +32,11 @@ in various Programming Languages.
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
 <img alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
 
+### status
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groophy-Lifefor&show_icons=true&theme=tokyonight)](https://github.com/Groophy-Lifefor/github-readme-stats)
+
 ## Contact me
 Discord: Groophy#1966 \
 Twitter: [@GroophyLifefor](https://twitter.com/GroophyLifefor) \
