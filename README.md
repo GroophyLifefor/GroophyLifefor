@@ -35,7 +35,9 @@ in various Programming Languages.
 ### status
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroophyLifefor&show_icons=true&theme=tokyonight)](https://github.com/GroophyLifefor/github-readme-stats)
+[![Groophy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroophyLifefor&show_icons=true&theme=tokyonight)](https://github.com/GroophyLifefor/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GroophyLifefor&langs_count=8)](https://github.com/GroophyLifefor/github-readme-stats)
 
 ## Contact me
 Discord: Groophy#1966 \
