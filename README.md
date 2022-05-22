@@ -1,7 +1,7 @@
 ## About me
 Hey, I'm Murat also known as Groophy.
 
-I'm a 15 year old developer from Turkey who develops
+I'm a 16 year old developer from Turkey who develops
 
 in various Programming Languages.
 
