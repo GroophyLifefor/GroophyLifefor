@@ -1,43 +1,14 @@
-## About me
-Hey, I'm Murat also known as Groophy.
+<div align="center">
+<a href="https://discord.com/users/555492075068588062"><img src="https://lanyard-profile-readme.vercel.app/api/555492075068588062?borderRadius=25px&bg=#282a36" /></a>
+</div>
 
-I'm a 16 year old developer from Turkey who develops
+<div align="center"><img src="https://user-images.githubusercontent.com/77299279/185794127-b91e69ad-7488-4c87-972b-86ba20ca9d89.png" width="220" height="220" /></div>
 
-in various Programming Languages.
+<div align="center"><a href="https://github.com/Groophy-Inc" >Groophy-Inc</a></div>
 
- - Organization:   [Groophy Inc](https://github.com/Groophy-Inc)
+---
 
-## Languages, IDEs and Tools
-
-### Languages
-
-
-<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//csharp.svg"/>
-<img style="padding: 1.5px" align="left" alt="C++" width="25px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cpp.svg"/>
-<img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//c.svg"/>
-<img style="padding: 1.5px" align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
-<img style="padding: 1.5px" alt="left" alt="Python 3" width="26px" src="https://github.com/Groophy-Lifefor/Groophy-Lifefor/blob/main/batch.jpg"/>
-
-
-### IDEs
-
-<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<img alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
-
-### Tools (not all included)
-
-
-<img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
-<img align="left" alt="CMake" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cmake.svg"/>
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
-<img alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
-
-### status
-
-
-[![Groophy's GitHub stats](https://github-readme-stats.vercel.app/api?username=GroophyLifefor&show_icons=true&theme=tokyonight)](https://github.com/GroophyLifefor/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GroophyLifefor&langs_count=8)](https://github.com/GroophyLifefor/github-readme-stats)
+<div align="center"><br><a href="https://discord.com/users/555492075068588062"><img src="https://metrics.lecoq.io/GroophyLifefor?languages=1&gists=1&followup=1"/></a></div>
 
 ## Contact me
 Discord: Groophy#1966 \
