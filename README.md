@@ -14,3 +14,5 @@ The ones I use when necessary:
 
 📫 How to reach me: \
 Email:   [GroophyLifefor@gmail.com](mailto:GroophyLifefor@gmail.com)
+
+<a href="https://medium.com/@muratkirazkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muratkirazkaya" height="30" width="40" /></a>
