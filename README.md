@@ -14,4 +14,14 @@ Email:   [GroophyLifefor@gmail.com](mailto:GroophyLifefor@gmail.com)
 
 ---
 
-<img src="https://github.com/GroophyLifefor/GroophyLifefor/assets/77299279/65047771-ee9a-490a-804b-d7c40b8864c0" height="250" />
+<center>
+     <table cellpadding="1" width="80%">
+       <col width="33%">
+       <col width="33%">
+       <tr align="center">
+       </tr>
+       <tr align="center">
+           <td style="border:none;vertical-align:middle;"><img src="https://github.com/GroophyLifefor/GroophyLifefor/assets/77299279/65047771-ee9a-490a-804b-d7c40b8864c0" width="90%" > </td>
+          </tr>
+     </table>
+</center>
