@@ -14,4 +14,4 @@ Email:   [GroophyLifefor@gmail.com](mailto:GroophyLifefor@gmail.com)
 
 ---
 
-<img src="https://github.com/GroophyLifefor/GroophyLifefor/assets/77299279/65047771-ee9a-490a-804b-d7c40b8864c0" height="300" />
+<img src="https://github.com/GroophyLifefor/GroophyLifefor/assets/77299279/65047771-ee9a-490a-804b-d7c40b8864c0" height="250" />
