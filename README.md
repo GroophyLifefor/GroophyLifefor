@@ -7,9 +7,6 @@ I like to help people, if there is something you are stuck on, don't hesitate to
 I was once part of the Batch-Man organization (an organization that writes tools for developers to make it easier for them to write code). \
 Not counting the languages I use occasionally, I started with C++, then I continued with C# and these months I have been writing javascript.
 
-The ones I use when necessary: 
- - CSharp, Python, SQL, Javascript, BatchFile, Git, VS Community, Rider, VS Code, NodeJS, Postman.
-
 <br>
 
 📫 How to reach me: \
