@@ -2,9 +2,9 @@
 
 At the moment I'm a high school student who writes code as a hobby.
 
-I like to help people, if there is something you are stuck on, don't hesitate to contact me with mail.
+I like to help people, if there is something you are stuck on, don't hesitate to contact me.
 
-I was once part of the Batch-Man organization (an organization that writes tools for developers to make it easier for them to write code). \
+I was part of the Batch-Man organization (an organization that writes tools for developers to make it easier for them to write code). \
 Not counting the languages I use occasionally, I started with C++, then I continued with C# and these months I have been writing javascript.
 
 📫 How to reach me: \
