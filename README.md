@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-At the moment I'm a high school student who writes code as a hobby.
+I'm a man who writes code as a hobby.
 
 I like to help people, if there is something you are stuck on, don't hesitate to contact me.
 
