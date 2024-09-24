@@ -15,6 +15,8 @@
 - - I did an internship at [Valentura](https://valentura.com/) for 7 months
 - - I did an internship at [Peaker Soft](https://peakersoft.net/) for 1 months
 
+- In the last `2 years` I have participated in more than `300 events`. That means I was at an event every one out of every two days. I love my sector.
+
 ## After 18
 
 - - I work full time in Tech Operations at [Valentura](https://valentura.com/).
