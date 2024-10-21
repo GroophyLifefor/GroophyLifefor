@@ -20,6 +20,8 @@
 ## After 18
 
 - - I work full time in Tech Operations at [Valentura](https://valentura.com/).
+- - I maintained to publish a new track on Exercism, [visit the track](https://exercism.org/tracks/batch).
+- - I created and maintained a chrome extension that used in many companies, which changes GitHub homepage to make useful, [visit the represented website](https://aad-ext.vercel.app/).
 
 ## On my focus projects
 
