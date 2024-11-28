@@ -9,19 +9,20 @@
 - - I have written dozens of NuGet libraries and it has more than 5k downloads
 - - Apart from libraries with C#, I also tried to make a big IDE, it was very good years.
 - In February 2023, I entered the Web world.
-- - While learning web, I had an internship opportunity and I did my first internship at [Insider](https://useinsider.com/) for 2 months and actually to get internship, process took 6 month.
-- - Then I was deemed eligible for the Success story with [Kodluyoruz](https://www.kodluyoruz.org/en) and [Microsoft](https://microsoft.com/), I didn't think I was eligible at the time, but looking back at what I did today, I really deserved it. Here is the video [Click](https://www.youtube.com/watch?v=SiRbxzKw-hY&t=1s)
-- - I did a 2-month internship at [Collective Idea](https://www.collectiveidea.net/)
-- - I did an internship at [Valentura](https://valentura.com/) for 7 months
-- - I did an internship at [Peaker Soft](https://peakersoft.net/) for 1 months
+- - While learning web, I had an internship opportunity and I did my first internship at [Insider](https://useinsider.com/) for 2 months and actually to get internship, process took 6 months.
+- - Then I was deemed eligible for the Success story with [Kodluyoruz](https://www.kodluyoruz.org/en) and [Microsoft](https://microsoft.com/), I didn't think I was eligible at the time, but looking back at what I did today, I really deserved it. Here is the video [Click](https://www.youtube.com/watch?v=SiRbxzKw-hY&t=1s).
+- - I did a 2-month internship at [Collective Idea](https://www.collectiveidea.net/).
+- - I did an internship at [Valentura](https://valentura.com/) for 7 months.
+- - I did an internship at [Peaker Soft](https://peakersoft.net/) for 1 month.
 
-- In the last `2 years` I have participated in more than `300 events`. That means I was at an event every one out of every two days. I love my sector.
+- In the last `2 years`, I have participated in more than `300 events`. That means I was at an event every one out of every two days. I love my sector.
 
 ## After 18
 
-- - I work full time in Tech Operations at [Valentura](https://valentura.com/).
+- - I work full-time in Tech Operations at [Valentura](https://valentura.com/).
 - - I maintained to publish a new track on Exercism, [visit the track](https://exercism.org/tracks/batch).
-- - I created and maintained a chrome extension that used in many companies, which changes GitHub homepage to make useful, [visit the represented website](https://aad-ext.vercel.app/).
+- - I created and maintained a Chrome extension that is used in many companies, which changes the GitHub homepage to make it useful, [visit the represented website](https://aad-ext.vercel.app/).
+- - I created and maintained an unofficial Next.js integration library [Next-Supsis](https://github.com/GroophyLifefor/next-supsis) for [Supsis AI](https://supsis.com/) that streamlined the business operations platform.
 
 ## On my focus projects
 
