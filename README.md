@@ -31,8 +31,8 @@
   - [Website](https://aad-ext.vercel.app/)
 
  
-- [Batch Track](https://github.com/exercism/batch) (Open-Source Learning Platform Contribution):
-  - Exercism exercises in Batch Script.
+- [Batch Track](https://github.com/exercism/batch) (Learning Platform):
+  - Open-Source Learning Platform Batch Script Language Maintainer
   - [Website](https://exercism.org/tracks/batch)
 
 
