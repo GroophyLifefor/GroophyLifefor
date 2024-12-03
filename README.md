@@ -1,5 +1,10 @@
 # Hi there 👋
 
+![valentura](https://github.com/user-attachments/assets/808e7442-08f8-4da2-a217-fa245ecb005a)
+![aad](https://github.com/user-attachments/assets/0c7d941b-7060-427c-b5d0-a95409bfa96f)
+![exercism](https://github.com/user-attachments/assets/e58c8f39-7283-4278-a26e-7e0a8fc5c282)
+
+
 ## Before I was 18
 
 - In March 2019 I started writing servers for the Growtopia game with C++
