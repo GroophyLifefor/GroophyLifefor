@@ -15,6 +15,15 @@
 - - Apart from libraries with C#, I also tried to make a big IDE, it was very good years.
 - In February 2023, I entered the Web world.
 - - While learning web, I had an internship opportunity and I did my first internship at [Insider](https://useinsider.com/) for 2 months and actually to get internship, process took 6 months.
+    <details>
+      <summary>Show Image(s)</summary>
+
+      ![0_6IvMgMgAaRghgaG5](https://github.com/user-attachments/assets/c2539af4-13f4-46e8-9dc2-1fc1921ebc8e)
+      ![0_6GiVrBlQDR-n9fAs](https://github.com/user-attachments/assets/b01a5186-fa66-4199-9ebf-9e56931368f9)
+
+
+
+    </details>
 - - Then I was deemed eligible for the Success story with [Kodluyoruz](https://www.kodluyoruz.org/en) and [Microsoft](https://microsoft.com/), I didn't think I was eligible at the time, but looking back at what I did today, I really deserved it. Here is the video [Click](https://www.youtube.com/watch?v=SiRbxzKw-hY&t=1s).
 - - I did a 2-month internship at [Collective Idea](https://www.collectiveidea.net/).
 - - I did an internship at [Valentura](https://valentura.com/) for 7 months.
@@ -26,8 +35,17 @@
 
 - - I work full-time in Tech Operations at [Valentura](https://valentura.com/).
 - - I maintained to publish a new track on Exercism, [visit the track](https://exercism.org/tracks/batch).
+- - I started studying at Ordu University.
 - - I created and maintained a Chrome extension that is used in many companies, which changes the GitHub homepage to make it useful, [visit the represented website](https://aad-ext.vercel.app/).
 - - I created and maintained an unofficial Next.js integration library [Next-Supsis](https://github.com/GroophyLifefor/next-supsis) for [Supsis AI](https://supsis.com/) that streamlined the business operations platform.
+- - I'm taking on the role of educator with the [“Empower Me - Youth Program”](https://habitatdernegi.org/en/entrepreneurship/empower-me-youth-program/) and providing instructions.
+    <details>
+      <summary>Show Image(s)</summary>
+
+      ![470086807_18474821071000986_7678186982816186846_n](https://github.com/user-attachments/assets/476c8ef3-d4f8-4509-ac6d-1c5455f2d538)
+
+    </details>
+
 
 ## On my focus projects
 
