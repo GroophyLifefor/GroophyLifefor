@@ -59,6 +59,7 @@
   - Open-Source Learning Platform Batch Script Language Maintainer
   - [Website](https://exercism.org/tracks/batch)
 
+_fun fact: I also joined over four hundred event in my whole career._
 
 🗂️ Portfolio: \
 Upwork:  [Murat K.](https://www.upwork.com/freelancers/~0188f6ba1afc59d755)
