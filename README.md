@@ -36,9 +36,10 @@
 - - I work full-time in Tech Operations at [Valentura](https://valentura.com/).
 - - I maintained to publish a new track on Exercism, [visit the track](https://exercism.org/tracks/batch).
 - - I started studying at Ordu University.
+- - - In my first month, I realized that the curriculum of the Web lecture was behind the software industry and I prepared a new curriculum in collaboration with the lecturer, for which we organized appropriate presentation slides and renewed the exams.
 - - I created and maintained a Chrome extension that is used in many companies, which changes the GitHub homepage to make it useful, [visit the represented website](https://aad-ext.vercel.app/).
 - - I created and maintained an unofficial Next.js integration library [Next-Supsis](https://github.com/GroophyLifefor/next-supsis) for [Supsis AI](https://supsis.com/) that streamlined the business operations platform.
-- - I'm taking on the role of educator with the [“Empower Me - Youth Program”](https://habitatdernegi.org/en/entrepreneurship/empower-me-youth-program/) and providing instructions.
+- - I'm took the role of educator with the [“Empower Me - Youth Program”](https://habitatdernegi.org/en/entrepreneurship/empower-me-youth-program/) and providing instructions.
     <details>
       <summary>Show Image(s)</summary>
 
