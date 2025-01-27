@@ -45,7 +45,7 @@
       ![470086807_18474821071000986_7678186982816186846_n](https://github.com/user-attachments/assets/476c8ef3-d4f8-4509-ac6d-1c5455f2d538)
 
     </details>
-
+- - I was responsible for the backend of the [BuddiesApp project](https://github.com/SwiftBuddiesTR/BuddiesIOS), which was launched with the SwiftBuddies Community. The project began in the fourth month of 2024 and was opened to whitelist after nine months.
 
 ## On my focus projects
 
