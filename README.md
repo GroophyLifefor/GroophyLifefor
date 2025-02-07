@@ -46,6 +46,7 @@
 
     </details>
 - - I was responsible for the backend of the [BuddiesApp project](https://github.com/SwiftBuddiesTR/BuddiesIOS), which was launched with the SwiftBuddies Community. The project began in the fourth month of 2024 and was opened to whitelist after nine months.
+- - I founded the “Ordu Bilişim Topluluğu” in order to bring software developers together in Türkiye/Ordu and now it is growing. Wanna check it out? [ordu.dev](https://ordu.dev/)
 
 ## On my focus projects
 
