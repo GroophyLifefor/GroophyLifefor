@@ -47,13 +47,17 @@
     </details>
 - - I was responsible for the backend of the [BuddiesApp project](https://github.com/SwiftBuddiesTR/BuddiesIOS), which was launched with the SwiftBuddies Community. The project began in the fourth month of 2024 and was opened to whitelist after nine months.
 - - I founded the “Ordu Bilişim Topluluğu” in order to bring software developers together in Türkiye/Ordu and now it is growing. Wanna check it out? [ordu.dev](https://ordu.dev/)
+- - I created and maintained an powerful webserver library that deno-native. It's also offers a lot of implementations with most customizability. Wanna check it out? [Yelix](https://github.com/GroophyLifefor/yelix)
 
 ## On my focus projects
+
+- [Yelix](https://github.com/GroophyLifefor/yelix) (JSR Library):
+  - The Modern Web Server Library for Deno, It simplifies backend development with automated features, including built-in data validation, OpenAPI 3.1 support, and auto-generated backend documentation.
+  - [Website](https://yelix-docs.deno.dev/)
 
 - [AAD](https://github.com/GroophyLifefor/aad) (Chrome Extension):
   - AAD is a highly customizable GitHub extension that allows you to customize your GitHub experience.
   - [Website](https://aad-ext.vercel.app/)
-
  
 - [Batch Track](https://github.com/exercism/batch) (Learning Platform):
   - Open-Source Learning Platform Batch Script Language Maintainer
