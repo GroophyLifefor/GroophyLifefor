@@ -1,8 +1,9 @@
 # Hi there 👋
 
-[![valentura](https://github.com/user-attachments/assets/808e7442-08f8-4da2-a217-fa245ecb005a)](https://valentura.com/)
 [![aad](https://github.com/user-attachments/assets/0c7d941b-7060-427c-b5d0-a95409bfa96f)](https://chromewebstore.google.com/detail/aad-highly-customizable-g/mgcjpifcmjkabdlpgbiahcdhknjjdmff)
+[![valentura](https://github.com/user-attachments/assets/808e7442-08f8-4da2-a217-fa245ecb005a)](https://valentura.com/)
 [![exercism](https://github.com/user-attachments/assets/e58c8f39-7283-4278-a26e-7e0a8fc5c282)](https://exercism.org/tracks/batch)
+[![Yelix](https://github.com/user-attachments/assets/ee5ff826-caad-4292-9498-e62a2a1bb4c5)](https://yelix-docs.deno.dev/)
 
 ## Before I was 18
 
