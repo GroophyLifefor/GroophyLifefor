@@ -3,7 +3,7 @@
 [![aad](https://github.com/user-attachments/assets/0c7d941b-7060-427c-b5d0-a95409bfa96f)](https://chromewebstore.google.com/detail/aad-highly-customizable-g/mgcjpifcmjkabdlpgbiahcdhknjjdmff)
 [![valentura](https://github.com/user-attachments/assets/808e7442-08f8-4da2-a217-fa245ecb005a)](https://valentura.com/)
 [![exercism](https://github.com/user-attachments/assets/e58c8f39-7283-4278-a26e-7e0a8fc5c282)](https://exercism.org/tracks/batch)
-[![Yelix](https://github.com/user-attachments/assets/ee5ff826-caad-4292-9498-e62a2a1bb4c5)](https://yelix-docs.deno.dev/)
+[![Yelix](https://github.com/user-attachments/assets/ee5ff826-caad-4292-9498-e62a2a1bb4c5)](https://docs.yelix.dev/)
 
 ## Before I was 18
 
@@ -54,7 +54,7 @@
 
 - [Yelix](https://github.com/GroophyLifefor/yelix) (JSR Library):
   - The Modern Web Server Library for Deno, It simplifies backend development with automated features, including built-in data validation, OpenAPI 3.1 support, and auto-generated backend documentation.
-  - [Website](https://yelix-docs.deno.dev/)
+  - [Website](https://docs.yelix.dev/)
 
 - [AAD](https://github.com/GroophyLifefor/aad) (Chrome Extension):
   - AAD is a highly customizable GitHub extension that allows you to customize your GitHub experience.
