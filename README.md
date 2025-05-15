@@ -50,7 +50,7 @@
 - - I founded the “Ordu Bilişim Topluluğu” in order to bring software developers together in Türkiye/Ordu and now it is growing. Wanna check it out? [ordu.dev](https://ordu.dev/)
 - - I created and maintained an powerful webserver framework that deno-native. It's also offers a lot of implementations with most customizability. Wanna check it out? [Yelix](https://github.com/yelixjs/yelix)
 - - - Yelix earned a **🥈 Silver Medal in the Karadeniz** region at **1Fikir1Karadeniz** and a **🥇 Gold Medal nationwide across Türkiye** at **1Fikir1Türkiye**, highlighting its innovation and impact in the tech community.
-
+- - I participated in the [expressjs/perf WG](https://github.com/expressjs/perf-wg) team and contribute in the area of performance tooling and monitoring.
 
 ## On my focus projects
 
