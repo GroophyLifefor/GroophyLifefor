@@ -1,7 +1,6 @@
 # Hi there 👋
 
 [![aad](https://github.com/user-attachments/assets/0c7d941b-7060-427c-b5d0-a95409bfa96f)](https://chromewebstore.google.com/detail/aad-highly-customizable-g/mgcjpifcmjkabdlpgbiahcdhknjjdmff)
-[![valentura](https://github.com/user-attachments/assets/808e7442-08f8-4da2-a217-fa245ecb005a)](https://valentura.com/)
 [![exercism](https://github.com/user-attachments/assets/e58c8f39-7283-4278-a26e-7e0a8fc5c282)](https://exercism.org/tracks/batch)
 [![Yelix](https://github.com/user-attachments/assets/ee5ff826-caad-4292-9498-e62a2a1bb4c5)](https://docs.yelix.dev/)
 
@@ -51,20 +50,18 @@
 - - I created and maintained an powerful webserver framework that deno-native. It's also offers a lot of implementations with most customizability. Wanna check it out? [Yelix](https://github.com/yelixjs/yelix)
 - - - Yelix earned a **🥈 Silver Medal in the Karadeniz** region at **1Fikir1Karadeniz** and a **🥇 Gold Medal nationwide across Türkiye** at **1Fikir1Türkiye**, highlighting its innovation and impact in the tech community.
 - - I participated in the [expressjs/perf WG](https://github.com/expressjs/perf-wg) team and contribute in the area of performance tooling and monitoring.
+- - I created and maintained **Astro Hackathon**, a full-stack platform designed to organize and manage hackathon events.
+  - - It was developed **for the Türkiye Uzay Ajansı (TUA)** and **accepted by the Ministry of Industry and Technology of the Republic of Türkiye**.
+  - - The project is a **monorepo** including a **Deno + Hono backend** and a **Next.js 14 frontend** (App Router).
+  - - The backend includes **custom JWT authentication**, **OpenAPI documentation**, and **dynamic endpoint discovery**.
+  - - The frontend supports **multi-language (English and Turkish)** content, an **admin dashboard**, and **team management tools** built with **TanStack Query** and **Tailwind CSS**.
+  - - The platform enables users to **register, create or join local events, form teams, and participate in challenges** under the **Astro Hackathon** brand.
+  - - It is self-hosted using Coolify with a custom server configuration for both frontend and backend deployment.
 
 ## On my focus projects
 
-- [Yelix](https://github.com/yelixjs/yelix) (Web Server Framework):
-  - The Modern Web Server Library for Deno, It simplifies backend development with automated features, including built-in data validation, OpenAPI 3.1 support, and auto-generated backend documentation.
-  - [Website](https://docs.yelix.dev/)
-
-- [AAD](https://github.com/GroophyLifefor/aad) (Chrome Extension):
-  - AAD is a highly customizable GitHub extension that allows you to customize your GitHub experience.
-  - [Website](https://aad-ext.vercel.app/)
- 
-- [Batch Track](https://github.com/exercism/batch) (Learning Platform):
-  - Open-Source Learning Platform Batch Script Language Maintainer
-  - [Website](https://exercism.org/tracks/batch)
+- [OBT](https://ordu.dev) (Ordu Biliişim Topluluğu):
+  - The Ordu IT Community is a platform that brings together software developers in Ordu with the aim of developing projects and sharing knowledge.
 
 _fun fact: I also joined over four hundred event in my whole career._
 
