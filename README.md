@@ -57,6 +57,8 @@
   - - The frontend supports **multi-language (English and Turkish)** content, an **admin dashboard**, and **team management tools** built with **TanStack Query** and **Tailwind CSS**.
   - - The platform enables users to **register, create or join local events, form teams, and participate in challenges** under the **Astro Hackathon** brand.
   - - It is self-hosted using Coolify with a custom server configuration for both frontend and backend deployment.
+- - I contributed a new feature to the [Deno CLI](https://github.com/denoland/deno) that introduces `deno init --empty`, allowing developers to initialize a minimal project without tests or extra boilerplate. The PR was reviewed and merged within 24 hours by the Deno team.
+
 
 ## On my focus projects
 
