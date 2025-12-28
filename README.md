@@ -70,7 +70,7 @@ Upwork:  [Murat K.](https://www.upwork.com/freelancers/~0188f6ba1afc59d755)
 
 
 📫 How to reach me: \
-Email:   [GroophyLifefor@gmail.com](mailto:GroophyLifefor@gmail.com)
+Cal: [https://cal.com/muratkirazkaya](https://cal.com/muratkirazkaya)
 
 <a href="https://medium.com/@muratkirazkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muratkirazkaya" height="30" width="40" /></a>
 
