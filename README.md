@@ -30,7 +30,7 @@
 
 ## After 18
 
-- I work full-time in Tech Operations at [Valentura](https://valentura.com/).
+- I worked full-time in Tech Operations at [Valentura](https://valentura.com/) until 2025 Sept.
 - I maintained to publish a new track on Exercism, [visit the track](https://exercism.org/tracks/batch).
 - I started studying at Ordu University.
 - - In my first month, I realized that the curriculum of the Web lecture was behind the software industry and I prepared a new curriculum in collaboration with the lecturer, for which we organized appropriate presentation slides and renewed the exams.
