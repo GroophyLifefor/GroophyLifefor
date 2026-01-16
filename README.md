@@ -57,6 +57,10 @@
   - It is self-hosted using Coolify with a custom server configuration for both frontend and backend deployment.
 - I contributed a new feature to the [Deno CLI](https://github.com/denoland/deno) that introduces `deno init --empty`, allowing developers to initialize a minimal project without tests or extra boilerplate. The PR was reviewed and merged within 24 hours by the Deno team.
 - I created **Kommunity Wrapped** as an unofficial side project that lets users see and share their annual community activity summaries. After getting in touch with Kommunity, it evolved into an official collaboration with [Kommunity](https://kommunity.com), and is now publicly available at [kommunity.yelix.cloud](https://kommunity.yelix.cloud).
+- I added HTTP/2 support to the `on-finished` Node.js utility (https://github.com/jshttp/on-finished/pull/100) by detecting `http2.Http2Stream` instances and wiring into their natural close events so `onFinished` and `isFinished` work reliably with HTTP/2 responses as well as HTTP/1.
+- I enhanced the `mime-db` package (https://github.com/jshttp/mime-db/pull/428) by marking the `application/yaml` media type as compressible, allowing HTTP tooling that relies on `mime-db` to safely apply compression to YAML payloads by default.
+- I contributed to the `kiren` project via its first pull request (https://github.com/mertcanaltin/kiren/pull/1), helping shape the initial codebase and functionality of the application at an early stage.
+- I submitted documentation improvements to the official Deno Docs repository (https://github.com/denoland/docs/pull/2807), aligning the docs more closely with real-world usage patterns and making it easier for developers to discover and understand Deno features.
 
 ## On my focus projects
 
