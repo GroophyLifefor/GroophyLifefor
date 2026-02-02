@@ -61,6 +61,8 @@
 - I enhanced the `mime-db` package (https://github.com/jshttp/mime-db/pull/428) by marking the `application/yaml` media type as compressible, allowing HTTP tooling that relies on `mime-db` to safely apply compression to YAML payloads by default.
 - I contributed to `Kiren` [#1](https://github.com/mertcanaltin/kiren/pull/1), a lightweight JavaScript runtime built with Zig and QuickJS, by adding initial Windows support and fixing low level runtime issues. This included process argument handling, PID support, and safer event buffer allocation across platforms. This work was done in the first pull request, helping stabilize and shape the early core of the project.
 - I submitted documentation improvements to the official Deno Docs repository (https://github.com/denoland/docs/pull/2807), aligning the docs more closely with real-world usage patterns and making it easier for developers to discover and understand Deno features.
+- I was added to the [ExpressJS](https://github.com/expressjs) GitHub organization as a member of the **triagers** team, contributing to issue triage and maintenance workflows across ExpressJS repositories. Through this role, I am now directly involved with the [ExpressJS](https://github.com/expressjs), [jshttp](https://github.com/jshttp), and [pillarjs](https://github.com/pillarjs) ecosystems, supporting core packages that form a large part of the Node.js HTTP stack.
+
 
 ## On my focus projects
 
