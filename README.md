@@ -63,6 +63,7 @@
 - I submitted documentation improvements to the official Deno Docs repository (https://github.com/denoland/docs/pull/2807), aligning the docs more closely with real-world usage patterns and making it easier for developers to discover and understand Deno features.
 - I was added to the [ExpressJS](https://github.com/expressjs) GitHub organization as a member of the **triagers** team, contributing to issue triage and maintenance workflows across ExpressJS repositories. Through this role, I am now directly involved with the [ExpressJS](https://github.com/expressjs), [jshttp](https://github.com/jshttp), and [pillarjs](https://github.com/pillarjs) ecosystems, supporting core packages that form a large part of the Node.js HTTP stack.
 - I contributed to **prompts.chat** ([https://prompts.chat](https://prompts.chat)) by implementing multi-tag filtering on the prompts page (https://github.com/f/prompts.chat/pull/1004). This feature enables users to filter prompts using multiple comma-separated tags, improving prompt discovery and addressing feature request #1002.
+* I contributed to ExpressJS by removing duplicated test cases in `res.location` and `res.jsonp` ([#6996](https://github.com/expressjs/express/pull/6996)). This cleanup eliminated redundant assertions, reduced maintenance overhead in the test suite, and improved overall test clarity and consistency within Express’s response handling coverage.
 
 
 
