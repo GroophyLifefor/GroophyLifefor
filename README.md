@@ -1,3 +1,3 @@
-I'm Murat Kirazkaya
+I code, do you?
 
-A junior roofing contractor. 
+Murat Kirazkaya
