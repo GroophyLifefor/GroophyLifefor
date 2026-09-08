@@ -2,7 +2,7 @@
 
 👾 I'm **Murat**.
 
-☕ Software Engineer at @nodesource and doing OSS stuff
+☕ Software Engineer at [@nodesource](https://github.com/nodesource) and doing OSS stuff
 
 | Project  | Description |
 | ------------- |:-------------:|
