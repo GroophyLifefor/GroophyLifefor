@@ -5,7 +5,7 @@
 ☕ Software Engineer at [@nodesource](https://github.com/nodesource) and doing OSS stuff
 
 | Project  | Description |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | [Expressjs perf-wg](https://github.com/expressjs/perf-wg) | Expressjs performance working group |
 | [Expressjs triage](https://github.com/expressjs) | Expressjs triage team     |
 | [Yelix Hono](https://github.com/yelix-cloud/js-hono-deno) | lightweight abstraction layer for tracing and OpenAPI |
