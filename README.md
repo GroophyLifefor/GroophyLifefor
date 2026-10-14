@@ -13,8 +13,8 @@
 | [Yelix Hono](https://github.com/yelix-cloud/js-hono-deno) | lightweight abstraction layer for tracing and OpenAPI |
 | [express-emits](https://github.com/GroophyLifefor/express-emits) | EventEmitter instrumentation for Express |
 | [express-trace-cli](https://github.com/GroophyLifefor/express-trace-cli) | Terminal collector for express-emits |
-| [Yozgat](https://github.com/kerkenes/yozgat) | Self-Hosted Deployment Platform (Planning for Execute) |
-| [Templ-ui](https://github.com/kerkenes/templ-ui) | UI kit for Templ in Go |
+| [mdh-mdh](https://github.com/GroophyLifefor/mdh-mdh) | Self-hosted workspaces for Markdown and YAML files. |
+| [PatientDesk SDK](https://github.com/GroophyLifefor/patientdesk-sdk) | Unofficial SDK for PatientDesk Turkish voice models |
 
 
 
